@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/Heus/.themes/Dracula.zip" added="2022-08-18T18:05:50.811985Z" modified="2022-08-18T18:07:11.824924Z" visited="2022-08-18T18:05:50.811986Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2022-08-18T18:05:50.811988Z" count="1"/>
+          <bookmark:application name="com.brave.Browser" exec="&apos;gio open %u&apos;" modified="2022-08-18T18:05:51.062388Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-08-18T18:07:11.824922Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/themes/gtk-master.zip" added="2022-08-18T18:14:34.028899Z" modified="2022-08-18T18:14:34.279515Z" visited="2022-08-18T18:14:34.028901Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2022-08-18T18:14:34.028903Z" count="1"/>
+          <bookmark:application name="com.brave.Browser" exec="&apos;gio open %u&apos;" modified="2022-08-18T18:14:34.279511Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/Heus/Downloads/gtk-master.zip" added="2022-08-18T18:14:43.820706Z" modified="2022-08-18T18:15:49.918108Z" visited="2022-08-18T18:14:43.820707Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2022-08-18T18:14:43.820709Z" count="1"/>
+          <bookmark:application name="com.brave.Browser" exec="&apos;gio open %u&apos;" modified="2022-08-18T18:14:44.070917Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-08-18T18:15:49.918105Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/Heus/Downloads/xfce4-terminal-master.zip" added="2022-08-18T18:28:25.960245Z" modified="2022-08-18T18:29:38.406952Z" visited="2022-08-18T18:28:25.960246Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2022-08-18T18:28:25.960248Z" count="1"/>
+          <bookmark:application name="com.brave.Browser" exec="&apos;gio open %u&apos;" modified="2022-08-18T18:28:26.211101Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-08-18T18:29:38.406950Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/Heus/Imagens/Wallpapers/wallpaperflare.com_wallpaper.jpg" added="2022-08-18T18:44:19.697994Z" modified="2022-08-18T18:44:19.948532Z" visited="2022-08-18T18:44:19.697996Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2022-08-18T18:44:19.697998Z" count="1"/>
+          <bookmark:application name="com.brave.Browser" exec="&apos;gio open %u&apos;" modified="2022-08-18T18:44:19.948527Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/Heus/Imagens/Wallpapers" added="2022-08-18T18:44:31.251315Z" modified="2022-08-18T18:44:31.251320Z" visited="2022-08-18T18:44:31.251316Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="xfdesktop-settings" exec="&apos;xfdesktop-settings %u&apos;" modified="2022-08-18T18:44:31.251318Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/Heus/.zshrc" added="2022-08-18T18:47:09.254394Z" modified="2022-08-18T18:54:05.339229Z" visited="2022-08-18T18:47:09.254395Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2022-08-18T18:54:05.339225Z" count="2"/>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2022-08-18T18:47:28.621233Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/Heus/.p10k.zsh" added="2022-08-18T18:47:11.633536Z" modified="2022-08-18T18:54:03.533068Z" visited="2022-08-18T18:47:11.633538Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 608:44;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2022-08-18T18:54:03.533064Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/Heus/Downloads/MesloLGS%20NF%20Regular.ttf" added="2022-08-18T18:49:46.385319Z" modified="2022-08-18T18:49:46.635859Z" visited="2022-08-18T18:49:46.385320Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2022-08-18T18:49:46.385322Z" count="1"/>
+          <bookmark:application name="com.brave.Browser" exec="&apos;gio open %u&apos;" modified="2022-08-18T18:49:46.635854Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/Heus/Downloads/Fonts/MesloLGS%20NF%20Bold.ttf" added="2022-08-18T18:59:16.223299Z" modified="2022-08-18T18:59:16.474077Z" visited="2022-08-18T18:59:16.223301Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2022-08-18T18:59:16.223303Z" count="1"/>
+          <bookmark:application name="com.brave.Browser" exec="&apos;gio open %u&apos;" modified="2022-08-18T18:59:16.474073Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/Heus/Downloads/Fonts/MesloLGS%20NF%20Italic.ttf" added="2022-08-18T18:59:20.470902Z" modified="2022-08-18T18:59:20.721112Z" visited="2022-08-18T18:59:20.470903Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2022-08-18T18:59:20.470905Z" count="1"/>
+          <bookmark:application name="com.brave.Browser" exec="&apos;gio open %u&apos;" modified="2022-08-18T18:59:20.721107Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/Heus/Downloads/Fonts/MesloLGS%20NF%20Bold%20Italic.ttf" added="2022-08-18T18:59:25.255187Z" modified="2022-08-18T18:59:25.505498Z" visited="2022-08-18T18:59:25.255189Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2022-08-18T18:59:25.255191Z" count="1"/>
+          <bookmark:application name="com.brave.Browser" exec="&apos;gio open %u&apos;" modified="2022-08-18T18:59:25.505492Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
